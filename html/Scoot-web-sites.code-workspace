@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../Scoot-web-sites"
+		},
+		{
+			"path": "../fonts"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../scss"
+		},
+		{
+			"path": "../css"
+		}
+	],
+	"settings": {}
+}
